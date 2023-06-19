@@ -1,1 +1,2 @@
-console.log('Hello from c.js!');
+const cMessage = 'Hello from c.js!'
+export default cMessage
